@@ -1,0 +1,13 @@
+{ "array1":[
+   { "Name": "Hizen Novi Melendez",
+     "Age": "21",
+     "Quotes": "Life is not a problem to be solved, but a reality to be experienced."
+   }
+],
+  "array2":[
+   { "Class section": "IT1310",
+     "Section code" : "T239",
+     "BukSU email" : "2001105313@student.buksu.edu.ph"
+   }
+]
+}
